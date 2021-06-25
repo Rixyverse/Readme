@@ -1,7 +1,7 @@
 # Rixyverse FAQ
-Welcome to the FAQ of Rixyverse !
+Welcome to the FAQ of Rixyverse!
 
-If you read this, then you need to ask some questions that can be answer here. If your question isn't here, then open an issue and we will respond to your question shortly.
+If you read this, then you need to ask some questions that can be answered here. If your question isn't here, then open an issue and we will respond to your question shortly.
 
 ## What is that?
 This is a Miiverse Clone, a social media created to recreate the experience of Miiverse, but better.
