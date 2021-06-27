@@ -7,7 +7,8 @@ If you are reading this, you most likely have some questions. If your question i
 This is a Miiverse Clone, a social media created to recreate the experience of Miiverse, but better. (not better than the jam packed features clonemii v2 will get though! please still use this though! this clone is really cool!)
 
 ## Why did you make this??? Miiverse Clones are a waste of time!!!!
-SHUT UP.
+Sure, they are, but sometimes it's just fun to make.
+If you say otherwise, it's fine. You can hate or love Miiverse clones. It really doesn't matter.
 
 ## I love your project! How I can help you?
 When the project becomes open-source, you will be able to participate to the developement by opening a pull request. For now, you can't help us without becoming a beta tester.
