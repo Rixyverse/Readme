@@ -4,7 +4,7 @@ Welcome to the FAQ of Rixyverse!
 If you are reading this, you most likely have some questions. If your question isn't here, then open an issue and we will respond to your question shortly.
 
 ## What is this?
-This is a Miiverse Clone, a social media created to recreate the experience of Miiverse, but better. (not better than the jam packed features clonemii v2 will get though! please still use this though! this clone is really cool!)
+This is a Miiverse Clone, a social media created to recreate the experience of Miiverse, but better.
 
 ## Why did you make this??? Miiverse Clones are a waste of time!!!!
 Sure, they are, but sometimes it's just fun to make.
